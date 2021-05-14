@@ -5,4 +5,5 @@ the CNN architecture of MNIST and Fashion-MNIST
 
 The AlexNet neural network and CNN neural network of cifar10
 ![image](https://user-images.githubusercontent.com/84163763/118210144-9d300580-b49c-11eb-87e8-f4bab111aa41.png)
-![image](https://user-images.githubusercontent.com/84163763/118210172-a8833100-b49c-11eb-8322-2277b9c5e2e0.png)
+![image](https://user-images.githubusercontent.com/84163763/118210291-ea13dc00-b49c-11eb-8a15-fa49fec48212.png)
+
